@@ -1,6 +1,6 @@
 # David Villarreal (fullstack dev) 👨‍💻
 Hello world, I’m @davidVillarreal03 and I am very excited to be entering the world of coding to finally push through to acheiving my dream of choosing any place in the world to live. The first step was to learn how to code of course and I have completed that by finishing a coding bootcamp through EdX!<br>
-<br>I want to do more than just code for businesses, I plan on going into the industry with fresh ideas to make the world flow with ease via my creations. So I look forward to anyone who would like to do the same and is interested in collaborations. <br>
+<br>I want to do more than just code for businesses, I plan on going into the industry with fresh ideas to make the world flow with ease via my creations. I look forward to anyone who would like to do the same and is interested in collaborations. <br>
 
 - 👀 I’m interested in video games, tech, music and anything related to sci-fi, especially cthulhu 🐙
 - 🌱 I’m currently learning about the world of software and trying to find my in into the industry
