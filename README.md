@@ -5,8 +5,6 @@ Hello world, I’m @davidVillarreal03 and I am very excited to be entering the w
 - 👀 I’m interested in video games, tech, music and anything related to sci-fi, especially cthulhu 🐙
 - 🌱 I’m currently learning about the world of software and trying to find my in into the industry
 - 💞️ I’m looking to collaborate on projects as a jr backend developer
-- 📫 How to reach me: davidVillarr3al@gmail.com 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use my left hand to write and I am goated at smite
 ### Socials
 
