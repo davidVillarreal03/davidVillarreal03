@@ -7,9 +7,10 @@ Hello world, I’m @davidVillarreal03 and I am very excited to be entering the w
 - 💞️ I’m looking to collaborate on projects as a jr backend developer
 - ⚡ Fun fact: I use my left hand to write and I am goated at smite
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-villarreal-219214337?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1J4lTAnyRGWdn3lCb%2BINpQ%3D%3D)<br>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidVillarreal03)<br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidVillarr3al@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-villarreal-219214337?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1J4lTAnyRGWdn3lCb%2BINpQ%3D%3D)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidVillarreal03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidVillarr3al@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/david_villarreal__/)
 <br>
 ## Technology
 ### MERN Stack
